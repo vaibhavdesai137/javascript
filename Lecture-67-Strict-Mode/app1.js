@@ -1,5 +1,5 @@
 
-console.log("--------- app2.js ---------");
+console.log("--------- app1.js ---------");
 
 function logNewPerson() {
     "use strict";

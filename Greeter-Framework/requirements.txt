@@ -1,0 +1,8 @@
+
+Requirements:
+
+1. Name of the library is "Greeter"
+2. Supports greeting in Spanish and English
+3. Should not conflict with any other libraries
+4. Should be accessible jQuery style using G$(...)
+5. Should support jQuery itself as in you should be able to pass any dom element as an input
